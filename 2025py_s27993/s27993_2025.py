@@ -1,3 +1,9 @@
+#CEL:
+#Celem programu jest generowanie losowych sekwencji DNA o określonej długości oraz wstawianie do nich nazwy użytkownika w wybranej pozycji. Program umożliwia zapis wygenerowanej sekwencji w formacie FASTA, oblicza również statystyki.
+
+#KONTEKST ZASTOSOWANIA:
+#Program znajduje zastosowanie w dziedzinie bioinformatyki i biologii molekularnej, gdzie generowanie i analiza sekwencji DNA są kluczowymi zadaniami.
+
 import random
 
 # def generate_dna_sequence(length):
